@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "stm32f4xx_hal_adc.h": "c",
+        "dma.h": "c",
+        "usart.h": "c",
+        "task.h": "c",
+        "adc.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "rmt_stick.h": "c",
+        "string.h": "c",
+        "cmsis_os.h": "c",
+        "bsp_flash.h": "c",
+        "stdint.h": "c",
+        "dl-ln.h": "c",
+        "stm32f4xx.h": "c",
+        "stdio.h": "c",
+        "dl_ln.h": "c",
+        "std_msg.h": "c",
+        "stm32f4xx_hal_dma.h": "c",
+        "algorithm.h": "c",
+        "freertos.h": "c"
+    }
+}
